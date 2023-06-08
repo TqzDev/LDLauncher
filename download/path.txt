@@ -1,0 +1,6 @@
+Exam 'C:\LDPlayer9\ldconsole.exe'
+Exam 'D:\LDPlayer4.0\ldconsole.exe'
+-
+for button 
+first line is 64bit 
+second line is 32bit
