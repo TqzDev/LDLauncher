@@ -1,2 +1,0 @@
-Exam 64 'C:\LDPlayer9\ldconsole.exe'
-Exam 32 'C:\LDPlayer4.0\ldconsole.exe'
